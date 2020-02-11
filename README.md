@@ -1,2 +1,5 @@
-# learnGo
-learn a new programming language Golang
+# Go语言学习
+
+
+学习Go语言的练手代码
+
